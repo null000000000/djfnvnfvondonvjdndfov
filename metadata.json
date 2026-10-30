@@ -1,0 +1,6 @@
+{
+  "name": "AI Red Team Skill Tree - Interactive Mind Map",
+  "description": "خريطة تفاعلية شاملة لشجرة مهارات الـ AI Red Teaming من أساسيات الأمن السيبراني إلى الهجمات المتقدمة ونماذج الوكلاء والأمان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
